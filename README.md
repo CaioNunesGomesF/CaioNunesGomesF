@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/caio-nunes-3591392b9" target="_blank">
+  <a href="[www.linkedin.com/in/caio-nunes-3591392b9](https://www.linkedin.com/in/caio-nunes-3591392b9/?original_referer=https%3A%2F%2Fwww%2Ebing%2Ecom%2F&originalSubdomain=br)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="caiongomes@gmail.com" target="_blank">
