@@ -1,8 +1,3 @@
-###
-
-<div align="center">
-  <img width="1000" height="300" src="https://www.bing.com/th/id/OGC.35f5911b6761ecd292e0ee9b8596b69f?pid=1.7&rurl=https%3a%2f%2fcdna.artstation.com%2fp%2fassets%2fimages%2fimages%2f028%2f102%2f058%2foriginal%2fpixel-jeff-matrix-s.gif%3f1593487263&ehk=wecrDtYEC2f6vf4OxT20jxKob709Q37utOLpqoVdGDY%3d"  />
-</div>
 
 ###
 
@@ -31,7 +26,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/caio-nunes-3591392b9" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BE2N8NbQBSx2fX0ixnNmb%2FQ%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="caiongomes@gmail.com" target="_blank">
