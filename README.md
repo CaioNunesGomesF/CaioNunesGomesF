@@ -20,7 +20,7 @@
 ###
 
 
--<h4 align="left">Atualmente estou estudando Desenvolvimento Back-End!” 🚀</h4>
+- <h4 align="left">Atualmente estou estudando Desenvolvimento Back-End!” 🚀</h4>
 
 - <p>Email: caiongomes@gmail.com ✉️</p>
 
@@ -39,7 +39,7 @@
 
 
 <div align="left">
-  <a href="www.linkedin.com/in/caio-nunes-3591392b9" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-nunes-3591392b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN6IJa5%2BNT1W8PKfP8lB%2FxQ%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   
