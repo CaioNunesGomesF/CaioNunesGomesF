@@ -15,14 +15,14 @@
 
 ###
 
-<p align="left">Estou cursando Análise e Desenvolvimento na instituição de ensino Estácio. 📚🎓</p>
+-<p align="left">Estou cursando Análise e Desenvolvimento na instituição de ensino Estácio. 📚🎓</p>
 
 ###
 
 
-<h4 align="left">Atualmente estou estudando Desenvolvimento Back-End!” 🚀</h4>
+-<h4 align="left">Atualmente estou estudando Desenvolvimento Back-End!” 🚀</h4>
 
-<p>Email: caiongomes@gmail.com ✉️</p>
+-<p>Email: caiongomes@gmail.com ✉️</p>
 
 
 ###
