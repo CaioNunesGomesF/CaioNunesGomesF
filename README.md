@@ -20,7 +20,7 @@
 ###
 
 
-- <h4 align="left">Atualmente estou estudando Desenvolvimento Back-End!” 🚀</h4>
+- <p align="left">Atualmente estou estudando Desenvolvimento Back-End!” 🚀</p>
 
 - <p>Email: caiongomes@gmail.com ✉️</p>
 
