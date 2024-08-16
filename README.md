@@ -15,7 +15,7 @@
 
 ###
 
-- <p align="left">Estou cursando Análise e Desenvolvimento na instituição de ensino Estácio. 📚🎓</p>
+- <p align="left">Estou cursando Ciência da Computação na instituição de ensino UNINASSAU 📚🎓</p>
 
 ###
 
