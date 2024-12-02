@@ -68,17 +68,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="45" />
 </p>
 
----
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  width="140px"/>
-</div>
-
----
 
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px" alt="Wave GIF">  
