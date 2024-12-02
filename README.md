@@ -1,77 +1,85 @@
-<div>
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width = "1000"/>
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px" alt="Wave GIF">  
+</p>  
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width = "1000" height ="60"/>
-</div>
+# 👋 Olá, eu sou Caio!  
 
-###
+- 🎓 **Estudante de Ciência da Computação** na **UNINASSAU Sergipe** e estou finalizando o segundo período.  
+- 🎯 Em busca da **minha primeira oportunidade na área de TI**  
+- 🚀 Determinado a aprender e evoluir na área de tecnologia  
 
-<h1 align="center">Olá, meu nome é Caio Nunes!</h1>
+---
 
-###
+## 🛠️ Minhas Tecnologias  
 
-<p align="center">Sobre mim! 🙂</p>
+#### 🚀 Front-End  
 
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+</p>
 
-###
+#### 👨‍💻 Back-End  
 
-- <p align="left">Estou cursando Ciência da Computação na instituição de ensino UNINASSAU 📚🎓</p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=java,spring,cpp,cs,c" />
+</p>
 
-###
+#### 💾 Banco de Dados  
 
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+</p>
 
-- <p align="left">Atualmente estou estudando Desenvolvimento Back-End!” 🚀</p>
+#### 🎨 Ferramentas de Prototipagem  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
+</p>
 
-- <p>Email: caiongomes@gmail.com ✉️</p>
+#### 🔧 IDES
+<p>
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio" />
+</p>
 
+#### 💻 Sistemas Operacionais 
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint" />
+</p>
 
-###
+---
 
+## 🌟 Sobre Mim  
 
+💡 **Idade**: 18 anos (farei 19 em **07/12/2024**)  
+🎓 **Formação**: Ciência da Computação (Previsão de Conclusão: **2028**)  
+💻 **Paixão**: Resolver problemas, explorar novas ferramentas e criar soluções eficientes  
+🌱 **Meta Atual**: Meu primeiro passo no mundo da tecnologia como estagiário  
 
-<h5 align="left"></h5>
+---
 
-###
-#
-<p align="left">Contato:</p>
+## 🌐 Vamos Conectar?  
 
-###
+🔗 **LinkedIn**: [Caio Nunes](https://www.linkedin.com/in/caio-nunes-3591392b9)  
+📧 **E-mail**: [caiongomes@gmail.com](mailto:caiongomes@gmail.com)  
+🦸‍♂️ **Discord**: [Adicionar no Discord](https://discord.com/users/caionunes)  
 
+<p align="left" style="display: flex; gap: 8px;">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="45" />
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/caio-nunes-3591392b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN6IJa5%2BNT1W8PKfP8lB%2FxQ%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  
-  </a>
-</div>
-
-###
-#
-<p align="left">Linguagens e Ferramentas:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="40" alt="git logo"  />
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="40" alt="git logo"   />
-  
-</div>
-</div>
-</div>
-
-###
+---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioNunesGomesF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
-  </div>
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 
-###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  width="140px"/>
+</div>
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width = "1000"/>
+---
 
-
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px" alt="Wave GIF">  
+</p>  
