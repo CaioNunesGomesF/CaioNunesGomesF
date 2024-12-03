@@ -16,7 +16,6 @@
 
 <p align="left" style="display: flex; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=java" />
-    <img src="Captura de tela 2024-12-03 094811.png" width="47.50px" style="border-radius: 10px;" />
 </p>
 
 #### 🚀 Front-End  
@@ -41,7 +40,6 @@
 
 <p align="left" style="display: flex; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=cs" />
-    <img src="Captura de tela 2024-12-03 094811.png" width="47.50px" style="border-radius: 10px;" />
 </p>
 
 
