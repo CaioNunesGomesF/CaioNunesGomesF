@@ -71,15 +71,26 @@
 
 ## 🌐 Vamos Conectar?  
 
-🔗 **LinkedIn**: [Caio Nunes](https://www.linkedin.com/in/caio-nunes-3591392b9)  
-📧 **E-mail**: [caiongomes@gmail.com](mailto:caiongomes@gmail.com)  
-🦸‍♂️ **Discord**: [Adicionar no Discord](https://discord.com/users/caionunes)  
+🔗 **LinkedIn**: [Caio Nunes](https://www.linkedin.com/in/caio-nunes-3591392b9) 
 
-<p align="left" style="display: flex; gap: 8px;">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="45" />
+📧 **E-mail**: [caiongomes@gmail.com](mailto:caiongomes@gmail.com)  
+
+🦸‍♂️ **Discord**: [.caionunes](https://discord.com/users/caionunes)  
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/caio-nunes-3591392b9" target="_blank" style="margin: 0 30px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:caiongomes@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://discord.com/users/caionunes" target="_blank" style="margin: 0 30px;">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </p>
+
+
 
 
 <p align="center">  
