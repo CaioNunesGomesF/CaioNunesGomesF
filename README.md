@@ -78,17 +78,17 @@
 🦸‍♂️ **Discord**: [.caionunes](https://discord.com/users/caionunes)  
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/caio-nunes-3591392b9" target="_blank" style="margin: 0 30px;">
+
+  <a href="https://www.linkedin.com/in/caio-nunes-3591392b9" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:caiongomes@gmail.com" target="_blank" style="margin: 0 15px;">
+  <a href="mailto:caiongomes@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://discord.com/users/caionunes" target="_blank" style="margin: 0 30px;">
+  <a href="https://discord.com/users/caionunes" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-</p>
+
 
 
 
