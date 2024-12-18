@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Caio!  
 
-- 🎓 **Estudante de Ciência da Computação** na **UNINASSAU Sergipe** e estou finalizando o segundo período.  
+- 🎓 **Estudante de Ciência da Computação** na **UNINASSAU Sergipe** e estou no terceiro período.  
 - 🎯 Em busca da **minha primeira oportunidade na área de TI**  
 - 🚀 Determinado a aprender e evoluir na área de tecnologia  
 
@@ -62,7 +62,7 @@
 
 ## 🌟 Sobre Mim  
 
-💡 **Idade**: 18 anos (farei 19 em **07/12/2024**)  
+💡 **Idade**: 19 anos  
 🎓 **Formação**: Ciência da Computação (Previsão de Conclusão: **2028**)  
 💻 **Paixão**: Resolver problemas, explorar novas ferramentas e criar soluções eficientes  
 🌱 **Meta Atual**: Meu primeiro passo no mundo da tecnologia como estagiário  
