@@ -27,7 +27,7 @@
 #### 👨‍💻 Back-End  
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,spring,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,nodejs" />
 </p>
 
 #### 💾 Banco de Dados  
@@ -39,7 +39,7 @@
 #### 🤳 Mobile  
 
 <p align="left" style="display: flex; gap: 8px;">
-    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=cs,flutter,dart" />
 </p>
 
 
