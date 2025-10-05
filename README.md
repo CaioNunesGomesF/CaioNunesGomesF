@@ -15,7 +15,7 @@
 #### 😶‍🌫️  Minhas principais
 
 <p align="left" style="display: flex; gap: 8px;">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js" />
 </p>
 
 #### 🚀 Front-End  
