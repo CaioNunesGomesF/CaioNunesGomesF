@@ -18,10 +18,10 @@
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,postgres,docker,linux" />
 </p>
 
-#### 😶‍azul Outras Tecnologias que domino
+#### Outras Tecnologias que domino
 
 <p align="left" style="display: flex; gap: 8px;">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,flutter,mysql,supabase,figma" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql" />
 </p>
 
 ---
